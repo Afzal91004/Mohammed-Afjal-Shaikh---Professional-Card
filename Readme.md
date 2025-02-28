@@ -41,7 +41,8 @@ project-folder/
 
 ## Live Preview
 
-![Professional Card](https://mohammed-afjal-shaikh-professional-card.vercel.app/)
+[Live Preview](https://mohammed-afjal-shaikh-professional-card.vercel.app/)
+
 
 ## Contact
 
