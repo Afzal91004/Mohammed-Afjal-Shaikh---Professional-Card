@@ -39,9 +39,9 @@ project-folder/
 2. **Open `index.html` in a Browser**
    Simply open the file in any modern web browser to view the digital card.
 
-## Preview
+## Live Preview
 
-![Project Screenshot](https://via.placeholder.com/800x400.png?text=Professional+Card+Preview)
+![Professional Card](https://mohammed-afjal-shaikh-professional-card.vercel.app/)
 
 ## Contact
 
