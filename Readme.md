@@ -34,7 +34,7 @@ project-folder/
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/afzal91004/professional-card.git](https://github.com/Afzal91004/Mohammed-Afjal-Shaikh---Professional-Card
+   git clone https://github.com/Afzal91004/Mohammed-Afjal-Shaikh---Professional-Card.git
    ```
 2. **Open `index.html` in a Browser**
    Simply open the file in any modern web browser to view the digital card.
